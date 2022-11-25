@@ -1,5 +1,5 @@
-name: PluginTemplate
+name: FlyingHat
 version: '${version}'
-main: com.github.kaspiandev.plugintemplate.PluginTemplate
+main: com.github.kaspiandev.flyinghat.FlyingHat
 api-version: 1.13
 authors: [ KaspianDev ]
